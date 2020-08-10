@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://inarchaeology.github.io/3082.html</loc>
+    
+    <lastmod>2020-08-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://inarchaeology.github.io/59066.html</loc>
     
     <lastmod>2020-08-10</lastmod>
@@ -516,6 +523,13 @@
   
   <url>
     <loc>https://inarchaeology.github.io/tags/turquoise/</loc>
+    <lastmod>2020-08-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/tags/hongkong/</loc>
     <lastmod>2020-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
