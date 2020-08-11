@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/1.html</loc>
-    
-    <lastmod>2020-08-11</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/36923.html</loc>
     
     <lastmod>2020-08-11</lastmod>
@@ -515,6 +508,20 @@
   </url>
   
   <url>
+    <loc>https://inarchaeology.github.io/tags/turquoise/</loc>
+    <lastmod>2020-08-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/tags/hongkong/</loc>
+    <lastmod>2020-08-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://inarchaeology.github.io/tags/excavation/</loc>
     <lastmod>2020-08-11</lastmod>
     <changefreq>daily</changefreq>
@@ -537,20 +544,6 @@
   
   <url>
     <loc>https://inarchaeology.github.io/tags/chronicle/</loc>
-    <lastmod>2020-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/tags/turquoise/</loc>
-    <lastmod>2020-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/tags/hongkong/</loc>
     <lastmod>2020-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
