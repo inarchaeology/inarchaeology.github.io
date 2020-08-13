@@ -30,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/51157.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/42289.html</loc>
     
     <lastmod>2020-08-13</lastmod>
@@ -44,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/57729.html</loc>
+    <loc>https://inarchaeology.github.io/51157.html</loc>
     
     <lastmod>2020-08-13</lastmod>
     
@@ -52,6 +45,13 @@
   
   <url>
     <loc>https://inarchaeology.github.io/26116.html</loc>
+    
+    <lastmod>2020-08-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/57729.html</loc>
     
     <lastmod>2020-08-13</lastmod>
     
@@ -86,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/37605.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/33893.html</loc>
     
     <lastmod>2020-08-13</lastmod>
@@ -100,14 +93,21 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/46494.html</loc>
+    <loc>https://inarchaeology.github.io/19558.html</loc>
     
     <lastmod>2020-08-13</lastmod>
     
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/19558.html</loc>
+    <loc>https://inarchaeology.github.io/37605.html</loc>
+    
+    <lastmod>2020-08-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/46494.html</loc>
     
     <lastmod>2020-08-13</lastmod>
     
@@ -170,13 +170,6 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/47692.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/34085.html</loc>
     
     <lastmod>2020-08-13</lastmod>
@@ -185,6 +178,13 @@
   
   <url>
     <loc>https://inarchaeology.github.io/27390.html</loc>
+    
+    <lastmod>2020-08-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/47692.html</loc>
     
     <lastmod>2020-08-13</lastmod>
     
@@ -205,13 +205,6 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/27825.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/40085.html</loc>
     
     <lastmod>2020-08-13</lastmod>
@@ -226,7 +219,7 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/35634.html</loc>
+    <loc>https://inarchaeology.github.io/27825.html</loc>
     
     <lastmod>2020-08-13</lastmod>
     
@@ -234,6 +227,13 @@
   
   <url>
     <loc>https://inarchaeology.github.io/20667.html</loc>
+    
+    <lastmod>2020-08-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/35634.html</loc>
     
     <lastmod>2020-08-13</lastmod>
     
@@ -487,6 +487,41 @@
   </url>
   
   <url>
+    <loc>https://inarchaeology.github.io/tags/discovery/</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/tags/Fu-Baoshi/</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/tags/art/</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/tags/review/</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/tags/%E6%BC%A2%E7%95%AB%E5%83%8F%E7%9F%B3/</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://inarchaeology.github.io/tags/Anyang/</loc>
     <lastmod>2020-08-13</lastmod>
     <changefreq>daily</changefreq>
@@ -557,13 +592,6 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/tags/hongkong/</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/tags/excavation/</loc>
     <lastmod>2020-08-13</lastmod>
     <changefreq>daily</changefreq>
@@ -585,42 +613,14 @@
   </url>
   
   <url>
+    <loc>https://inarchaeology.github.io/tags/hongkong/</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://inarchaeology.github.io/tags/chronicle/</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/tags/discovery/</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/tags/Fu-Baoshi/</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/tags/art/</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/tags/review/</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/tags/%E6%BC%A2%E7%95%AB%E5%83%8F%E7%9F%B3/</loc>
     <lastmod>2020-08-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
