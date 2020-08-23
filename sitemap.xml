@@ -2,6 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://inarchaeology.github.io/49485.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/63162.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/4239.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/11452.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/37359.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/15167.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/47501.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/38836.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://inarchaeology.github.io/2828.html</loc>
     
     <lastmod>2020-08-23</lastmod>
@@ -450,62 +506,6 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/11452.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/37359.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/15167.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/4239.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/47501.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/49485.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/63162.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/38836.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/44257.html</loc>
     
     <lastmod>2020-08-13</lastmod>
@@ -791,6 +791,20 @@
   
   <url>
     <loc>https://inarchaeology.github.io/categories/graphic/</loc>
+    <lastmod>2020-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/categories/convention/</loc>
+    <lastmod>2020-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/categories/ordinance/</loc>
     <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
