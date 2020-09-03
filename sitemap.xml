@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://inarchaeology.github.io/35833.html</loc>
+    
+    <lastmod>2020-09-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/59527.html</loc>
+    
+    <lastmod>2020-09-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/11972.html</loc>
+    
+    <lastmod>2020-09-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://inarchaeology.github.io/52340.html</loc>
     
     <lastmod>2020-09-03</lastmod>
@@ -19,27 +40,6 @@
     <loc>https://inarchaeology.github.io/about/index.html</loc>
     
     <lastmod>2020-09-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/11972.html</loc>
-    
-    <lastmod>2020-09-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/59527.html</loc>
-    
-    <lastmod>2020-09-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/35833.html</loc>
-    
-    <lastmod>2020-09-02</lastmod>
     
   </url>
   
@@ -998,13 +998,6 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/tags/hubei/</loc>
-    <lastmod>2020-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/tags/pan-long-cheng/</loc>
     <lastmod>2020-09-03</lastmod>
     <changefreq>daily</changefreq>
@@ -1020,6 +1013,13 @@
   
   <url>
     <loc>https://inarchaeology.github.io/tags/city-site/</loc>
+    <lastmod>2020-09-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inarchaeology.github.io/tags/Wuhan/</loc>
     <lastmod>2020-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
