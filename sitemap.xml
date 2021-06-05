@@ -2,69 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://inarchaeology.github.io/6079.html</loc>
-    
-    <lastmod>2020-12-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/23924.html</loc>
-    
-    <lastmod>2020-12-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/17381.html</loc>
-    
-    <lastmod>2020-12-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/41352.html</loc>
-    
-    <lastmod>2020-12-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/62700.html</loc>
-    
-    <lastmod>2020-12-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/56735.html</loc>
-    
-    <lastmod>2020-11-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/52152.html</loc>
-    
-    <lastmod>2020-11-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/57734.html</loc>
-    
-    <lastmod>2020-11-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/48828.html</loc>
-    
-    <lastmod>2020-11-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/58813.html</loc>
     
     <lastmod>2020-11-20</lastmod>
@@ -75,55 +12,6 @@
     <loc>https://inarchaeology.github.io/22232.html</loc>
     
     <lastmod>2020-11-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/4761.html</loc>
-    
-    <lastmod>2020-11-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/54651.html</loc>
-    
-    <lastmod>2020-11-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/28590.html</loc>
-    
-    <lastmod>2020-11-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/6094.html</loc>
-    
-    <lastmod>2020-11-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/55613.html</loc>
-    
-    <lastmod>2020-11-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/41473.html</loc>
-    
-    <lastmod>2020-11-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/32922.html</loc>
-    
-    <lastmod>2020-11-15</lastmod>
     
   </url>
   
@@ -849,6 +737,13 @@
   </url>
   
   <url>
+    <loc>https://inarchaeology.github.io/3082.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://inarchaeology.github.io/15167.html</loc>
     
     <lastmod>2020-08-23</lastmod>
@@ -891,13 +786,6 @@
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/3082.html</loc>
-    
-    <lastmod>2020-08-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://inarchaeology.github.io/23159.html</loc>
     
     <lastmod>2020-08-13</lastmod>
@@ -928,7 +816,7 @@
 
   <url>
     <loc>https://inarchaeology.github.io/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -936,385 +824,378 @@
   
   <url>
     <loc>https://inarchaeology.github.io/tags/archaeology/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/story/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/newspaper/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/culture/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/heritage/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/document/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/ordinance/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Xia-culture/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/seminar/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/discovery/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Fu-Baoshi/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/art/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/review/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/portrait-stone-Han-dynasty/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Anyang/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Yinxu-Ruins/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/tomb-of-the-king/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/M1001/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/tomb/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/hou-chia-chuang/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/pit/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/M1002/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/stone/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/jade/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/turquoise/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/M1003/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/excavation/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Academia-Sinica/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Institute-of-History-and-Philology/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/hongkong/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/chronicle/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/relic/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/tiger/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/shield/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/ivory/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/bronze/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Antiquities-Advisory-Board/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Antiquities-and-Monuments-Office/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Grade-1-historic-buildings/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Grade-2-historic-buildings/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Grade-3-historic-buildings/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Declared-Monuments/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/pan-long-cheng/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/jia/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/city-site/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Wuhan/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Xingan/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Dayangzhou/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/ding/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/Helmet/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/slide/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/building/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/ancient-egypt/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/tags/mummy/</loc>
-    <lastmod>2020-12-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/tags/relic-chronicle/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1323,56 +1204,49 @@
   
   <url>
     <loc>https://inarchaeology.github.io/categories/story/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/categories/document/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/categories/graphic/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/categories/convention/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/categories/ordinance/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://inarchaeology.github.io/categories/dataset/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://inarchaeology.github.io/categories/chronicle/</loc>
-    <lastmod>2020-12-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inarchaeology.github.io/categories/news-report/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <loc>https://inarchaeology.github.io/categories/%E5%A0%B1%E9%81%93/</loc>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
